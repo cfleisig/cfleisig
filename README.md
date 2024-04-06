@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @cfleisig, a third year Engineering Science student at the University of Toronto
-- 👀 I’m interested in software development, data analysis and engineering physics.
+- 👋 Hi, I’m @cfleisig, an Engineering Physics student in the Engineering Science program at the University of Toronto.
 - 📫 Reach me at clara.fleisig@mail.utoronto.ca
 
 <!---
